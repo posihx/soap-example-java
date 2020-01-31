@@ -1,0 +1,8 @@
+com\posidev\test\service\EmpleadoService.class
+com\posidev\test\model\Usuario.class
+com\posidev\test\dao\EmpleadoDAO.class
+com\posidev\test\model\Empleado.class
+com\posidev\test\service\impl\EmpleadoServiceImpl.class
+com\posidev\test\dao\impl\EmpeleadoDAOImpl.class
+com\posidev\test\dao\UsuarioDAO.class
+com\posidev\test\service\EmpleadoServiceWS.class
